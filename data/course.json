@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ]
+  ],
+  "legacy_uid": "d2927cc4-73bd-9a58-0254-6c8211046a6e",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b97cff56-1545-43aa-f98d-a98bdc9bf021",
+    "website": "21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013"
+  },
+  "course_title": "Contemporary Short French Fiction: Social and Literary Trends since 1990",
+  "hide_download": true,
+  "course_description": "Students in this course will examine short stories and short novels published in France during the past 20 years, with emphasis on texts related to the dominant social and cultural trends. Themes include the legacy of France's colonial experience, the re-examination of its wartime past, memory and the Holocaust, the specter of AIDS, changing gender relationships, new families, the quest for personal identity, and immigration narratives. This course is taught in French.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.347",
+  "course_image_thumbnail": {
+    "content": "e09050c9-adba-a84c-feaa-bfbe7d2c1449",
+    "website": "21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [],
+  "site_uid": "bf2b1206-c2ea-4423-ad1b-210c5dc070a2",
+  "site_short_id": "21g.347-fall-2013",
+  "site_url_path": "courses/21g-347-contemporary-short-french-fiction-social-and-literary-trends-since-1990-fall-2013",
+  "title": "Course Metadata"
+}
